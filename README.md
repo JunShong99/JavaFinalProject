@@ -18,13 +18,13 @@ Photo         : </br>
 2. Other related info (if any)
 
 ## Introduction
-This is our program which about Covid-19. Our Program having the function which to add, edit, delete, and search the data from 5 country which are Malaysia, China, Indonesia, Thailand and Singapore. Besides that, our program also can let the user the print the txt file, open the setting and open the file which will give a lot of advantage to the user. In our program, we have use the inheritance,interface implement, Graphic User Interface, Exception, Array List and File IO.
+This is a program regarding Covid-19. Our Program consists of the function to add, edit, delete, and search the data from 5 countries which are Malaysia, China, Indonesia, Thailand and Singapore. Besides, our program enables user to print the txt file, open the setting and open the file which gives a lot of advantage to the user. In our program, we have used inheritance,interface implement, Graphic User Interface, Exception, Array List and File IO.
 ## User manual
 1. The user can add the data to the table and text file.
-2. When the user would like to edit the data, the user have to choose the data from the table and edit in the text field, after editing the text file in the text field, the user have to click the edit button to save the edited data.
-3. When the user add the data which cases, death, and recovery in the aphabet form the message will resquest the input in number(integer form).
-4. The user can click the enlarge button to view the death and recovery in the table.
-5. The user can also open the file explorer by click the menu above, print the text file in physical printer, open the setting.
+2. If user would like to edit the data,user have to choose the data from the table and edit in the text field, after editing the text file in the text field, the user have to click the edit button to save the edited data.
+3. When user add the data such as cases, death, and recovery in the aphabet form, the message will request the input in number(integer form).
+4. User can click the enlarge button to view the death and recovery in the table.
+5. User can open the file explorer by clicking the menu above, print the text file in physical printer, open the setting.
 ## Result/Output
 ![img1](https://user-images.githubusercontent.com/60889205/87184770-33dee380-c31b-11ea-9af7-aba2031ad36d.PNG)
 ![img2](https://user-images.githubusercontent.com/60889205/87184772-33dee380-c31b-11ea-8a6e-8c5cf05d0d01.PNG)
